@@ -46,6 +46,8 @@ CREATE TABLE orders (
 # Check database
 SHOW TABLES;
 
+# Importing dataset into the table using Import Wizard from CSV file
+
 # Check dataset
 SELECT * FROM orders LIMIT 10;
 SELECT * FROM products LIMIT 10;
