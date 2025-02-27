@@ -1,2 +1,1 @@
-# ProjectBasedIntern-BI
-Business Intelligence Project-Based Internship Bank Muamalat x Rakamin Academy
+# Bank Muamalat Business Intelligence Analyst Project Based Internship Program
