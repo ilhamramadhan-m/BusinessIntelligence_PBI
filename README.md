@@ -1,26 +1,32 @@
-# Bank Muamalat Business Intelligence Analyst Project Based Internship Program
+# 📈 Optimalisasi Penjualan dan Layanan PT Sejahtera Bersama Berdasarkan Analisis Data Transaksi
 
-## 📌 Background
-This project analyzes sales transactions of PT Sejahtera Bersama from 2021, comparing them with 2020 to identify trends and business insights. The goal is to improve sales performance using data-driven decision-making.
+## 📌 Latar Belakang
 
-## 🛠 Methodology
-1. Data Processing with MySQL
-- A master table was created by joining four tables: customers, orders, products, and product_category using SQL JOIN statements.
-- The table includes key fields such as customer email, city, order date, order quantity, product details, category, and total sales.
+Proyek ini menganalisis data transaksi penjualan PT Sejahtera Bersama selama tahun 2021 dan membandingkannya dengan data tahun 2020 untuk mengidentifikasi tren serta wawasan bisnis. Tujuannya adalah untuk meningkatkan kinerja penjualan melalui pengambilan keputusan berbasis data (*data-driven decision-making*).
 
-2. Data Visualization & Dashboard Development
-- A Business Intelligence Dashboard was created to visualize sales performance by category, geographic distribution, and trends over time.
+## 🛠 Metodologi
 
-## 📊 Key Insights
-A decline in total sales and order quantity in 2021 compared to 2020.
-Robots and drones contribute the most to total sales, while eBooks and training videos dominate order quantity.
-Certain geographic areas show strong sales potential.
+### 1. Pemrosesan Data dengan MySQL
 
-## 🔍 Business Recommendations
-Enhance marketing strategies for high-performing product categories.
-Offer promotions or discounts to boost declining product sales.
-Expand in high-potential locations based on geographic sales data.
+* Dibuat sebuah tabel master dengan menggabungkan empat tabel utama: `customers`, `orders`, `products`, dan `product_category` menggunakan perintah SQL `JOIN`.
+* Tabel akhir mencakup informasi penting seperti: email pelanggan, kota, tanggal pesanan, jumlah pesanan, detail produk, kategori, dan total penjualan.
 
-## 🚀 Dashboard Access
-[Click here to view the interactive dashboard](https://its.id/m/BI-TransactionDashboard)
+### 2. Visualisasi Data & Pengembangan Dashboard
 
+* Dibangun *Business Intelligence Dashboard* untuk memvisualisasikan performa penjualan berdasarkan kategori produk, distribusi geografis, dan tren dari waktu ke waktu.
+
+## 📊 Kesimpulan
+
+* Terdapat penurunan dalam total penjualan dan jumlah pesanan pada tahun 2021 dibandingkan tahun 2020.
+* Produk kategori **robot** dan **drone** memberikan kontribusi terbesar terhadap total penjualan, sedangkan **eBook** dan **video pelatihan** mendominasi dari sisi jumlah pesanan.
+* Beberapa wilayah geografis menunjukkan potensi penjualan yang kuat.
+
+## 🔍 Rekomendasi Bisnis
+
+* Perkuat strategi pemasaran untuk kategori produk dengan performa tinggi.
+* Tawarkan promosi atau diskon untuk mendorong penjualan produk yang menurun.
+* Fokuskan ekspansi ke lokasi dengan potensi penjualan tinggi berdasarkan data geografis.
+
+## 🚀 Akses Dashboard Interaktif
+
+📎 [Klik di sini untuk melihat dashboard interaktif](https://its.id/m/BI-TransactionDashboard)
